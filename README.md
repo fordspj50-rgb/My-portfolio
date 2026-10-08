@@ -1,4 +1,4 @@
-# Joash Bbosa - Web Developer Portfolio
+# Joash Bbossa - Junior Web Developer Portfolio
 
 A responsive multi-page developer portfolio built with HTML, CSS and JavaScript.
 
@@ -11,22 +11,21 @@ A responsive multi-page developer portfolio built with HTML, CSS and JavaScript.
 - Contact
 
 ## Run in VS Code
-1. Extract the ZIP.
-2. Open the `joash-bbosa-portfolio` folder in VS Code.
+2. Open the `joash-bbossa-portfolio` folder in VS Code.
 3. Install the **Live Server** extension.
 4. Right-click `index.html`.
 5. Select **Open with Live Server**.
 
 ## Before publishing
 Replace:
-- `your-email@example.com`
-- `+256 XXX XXX XXX`
+- `Email fords.p.j50@gmail.com`
+- `+256 758768774
 - project descriptions/details if needed
 - social links if you add them
 
 ## Publish with GitHub Pages
 1. Create a GitHub account.
-2. Create a new public repository, for example `joash-portfolio`.
+2. Create a new public repository, 
 3. Upload all files from this folder.
 4. Go to **Settings → Pages**.
 5. Under **Build and deployment**, select **Deploy from a branch**.
